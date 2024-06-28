@@ -31,4 +31,5 @@ To reproduce the issue: Run on iPad, hide and show the sidebar.
 ## Tested on
 
 	- iOS 17.2
+	- iOS 18.0 beta 1 (22A5282m)
 
